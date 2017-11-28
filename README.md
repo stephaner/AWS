@@ -1,8 +1,8 @@
 # AWS
 # AWS Tutorials
 
-sudo -s
-cd
+#sudo -s
+#cd
 yum -y update
 yum install wget
 sudo yum install R -y
