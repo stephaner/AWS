@@ -43,3 +43,6 @@
 
 ## Connection to instance in public subnet
 ![17](https://user-images.githubusercontent.com/33963568/33501909-3b455978-d6ac-11e7-8dca-0337c024b677.png)
+
+## Connection to instance in private subnet from public instance 
+![18](https://user-images.githubusercontent.com/33963568/33502567-9ed258f4-d6ae-11e7-8ca3-e40e633bf3d1.png)
